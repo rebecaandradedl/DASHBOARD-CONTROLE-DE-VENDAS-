@@ -3,7 +3,7 @@
 
 ## 1. Introdução
 
-Olá, hoje vou apresentar o nosso projeto de **Controle de Vendas**, desenvolvido utilizando o **Power BI**.
+Olá, hoje vou apresentar o meu projeto de **Controle de Vendas**, desenvolvido utilizando o **Power BI**.
 
 O objetivo principal do projeto é transformar dados de vendas em informações mais organizadas, visuais e fáceis de entender. Dessa forma, conseguimos acompanhar o desempenho das vendas e analisar diferentes informações importantes para uma empresa.
 
@@ -130,5 +130,3 @@ Para concluir, o projeto de **Controle de Vendas** demonstra como o Power BI pod
 Através do dashboard, conseguimos acompanhar o faturamento, as metas, os vendedores, as formas de pagamento e os cancelamentos.
 
 Dessa forma, o projeto facilita a análise dos resultados e pode contribuir para uma tomada de decisão mais rápida e eficiente.
-
-**Obrigado pela atenção!**
